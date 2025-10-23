@@ -1,6 +1,7 @@
 # AZE - Alış-veriş Dashboardu
 
-<a href = "https://github.com/Ulkarhuseynli/Shopping-Dashboard-Power-BI-/blob/main/Shopping%20Dashboard%201.png">Dashboard Page 1</a>
+<a href = "https://github.com/Ulkarhuseynli/Shopping-Dashboard-Power-BI-/blob/main/Shopping%20Dashboard%201.png">Dashboard Page 1</a>  
+<br>
 <a href = "https://github.com/Ulkarhuseynli/Shopping-Dashboard-Power-BI-/blob/main/Shopping%20Dashboard%202.png">Dashboard Page 2</a>
 
 
