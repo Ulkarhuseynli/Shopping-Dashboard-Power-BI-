@@ -1,5 +1,16 @@
 # AZE - Alış-veriş Dashboardu
 
+## 📊 Dashboard
+
+<p align="center">
+  <img src="C:\Users\ulkrh\Desktop\DATA ANALİTİK\Data Analitika Proyekt\Shopping\Shopping Dashboard 1.png" width="800">
+</p>
+
+<p align="center">
+  <img src="C:\Users\ulkrh\Desktop\DATA ANALİTİK\Data Analitika Proyekt\Shopping\Shopping Dashboard 2.png" width="800">
+</p>
+
+
 Bu dashboard xüsusi olaraq müştəri davranışlarını, satış məlumatlarını və yeni yaranmaqda olan moda trendlərini təhlil etmək üçün hazırlanmışdır. O, moda sənayesində müştəri üstünlüklərini anlamaq və qərar qəbuletmə proseslərini məlumat əsaslı analizlər vasitəsilə optimallaşdırmaq üçün geniş əhatəli bir vasitə rolunu oynayır.
 
 ## Əsas Funksionallıqlar:
