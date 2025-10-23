@@ -1,4 +1,36 @@
-# Shopping Dashboard
+# AZE - Alış-veriş Dashboardu
+
+Bu dashboard xüsusi olaraq müştəri davranışlarını, satış məlumatlarını və yeni yaranmaqda olan moda trendlərini təhlil etmək üçün hazırlanmışdır. O, moda sənayesində müştəri üstünlüklərini anlamaq və qərar qəbuletmə proseslərini məlumat əsaslı analizlər vasitəsilə optimallaşdırmaq üçün geniş əhatəli bir vasitə rolunu oynayır.
+
+## Əsas Funksionallıqlar:
+
+Müştəri üstünlükləri və davranışları:
+Müştərilərin rəng seçimləri, sevimli kateqoriyaları və alış vərdişləri daxil olmaqla onların üstünlüklərini izləyir. Bu xüsusiyyət bizneslərə auditoriyanı seqmentləşdirməyə və strategiyalarını müştəri tələblərinə uyğun şəkildə formalaşdırmağa imkan verir.
+
+Mövsümi və rəng analizi:
+Satış trendlərini mövsümlər və rəng üstünlükləri əsasında dərindən təhlil edir. Bu, moda brendlərinə hər bir mövsüm və müştəri seqmenti üçün ən uğurlu trendləri müəyyən etməklə bazarda bir addım öndə olmağa kömək edir.
+
+Məhsul kateqoriyalarına görə satış analizi:
+Müxtəlif məhsul kateqoriyalarının gəlir göstəricilərini və müştərilər arasında populyarlığını vurğulayır. Bu məlumat bizneslərə ən çox gəlir gətirən kateqoriyaları müəyyən etməyə və resursları mənfəəti maksimumlaşdırmaq üçün səmərəli şəkildə bölüşdürməyə imkan verir.
+
+## Məhsul Kateqoriyaları və Gəlirlər:
+
+Gəlir töhfəsi:
+Ümumi gəlirə ən çox töhfə verən məhsul kateqoriyalarını müəyyən edir. Bu, ən gəlirli məhsulları aşkar etmək və istehsal ilə marketinq strategiyalarını bu istiqamətdə uyğunlaşdırmaq üçün olduqca vacibdir.
+
+Populyarlıq analizi:
+Müştərilərlə ən çox rezonans doğuran kateqoriyaları aydın şəkildə göstərir. Bu məlumat bizneslərə yeni kolleksiyaları dizayn etməkdə və anbarda məhsul idarəçiliyini effektiv şəkildə aparmaqda bələdçi rolunu oynayır.
+
+Təchizat zəncirinin optimallaşdırılması:
+Tələb olunan məhsullara diqqət yetirməklə təchizat zəncirini sadələşdirməyə, artıq inventarı azaltmağa və müştəri gözləntilərinə uyğun vaxtında çatdırılmanı təmin etməyə kömək edir.
+
+## Bu Dashboardun Dəyəri:
+
+Bu dashboard moda sənayesində fəaliyyət göstərən bizneslər üçün olduqca vacib bir vasitədir. O, şirkətlərə müştəri məmnuniyyətini artırmaq, gəlirliliyi yüksəltmək və sürətlə dəyişən bazarda rəqabətədavamlı qalmaq üçün məlumat əsaslı qərarlar qəbul etməyə imkan verir.
+
+
+
+# ENG - Shopping Dashboard
 This dashboard has been specifically designed to analyze customer behavior, sales data, and emerging fashion trends. It serves as a comprehensive tool for understanding customer preferences and optimizing decision-making processes in the fashion industry by leveraging data-driven insights.
 
 ## Key Functionalities:
