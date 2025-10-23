@@ -1,14 +1,7 @@
 # AZE - Alış-veriş Dashboardu
 
-## 📊 Dashboard
-
-<p align="center">
-  <img src="C:\Users\ulkrh\Desktop\DATA ANALİTİK\Data Analitika Proyekt\Shopping\Shopping Dashboard 1.png" width="800">
-</p>
-
-<p align="center">
-  <img src="C:\Users\ulkrh\Desktop\DATA ANALİTİK\Data Analitika Proyekt\Shopping\Shopping Dashboard 2.png" width="800">
-</p>
+<a href = "https://github.com/Ulkarhuseynli/Shopping-Dashboard-Power-BI-/blob/main/Shopping%20Dashboard%201.png">Dashboard Page 1</a>
+<a href = "https://github.com/Ulkarhuseynli/Shopping-Dashboard-Power-BI-/blob/main/Shopping%20Dashboard%202.png">Dashboard Page 2</a>
 
 
 Bu dashboard xüsusi olaraq müştəri davranışlarını, satış məlumatlarını və yeni yaranmaqda olan moda trendlərini təhlil etmək üçün hazırlanmışdır. O, moda sənayesində müştəri üstünlüklərini anlamaq və qərar qəbuletmə proseslərini məlumat əsaslı analizlər vasitəsilə optimallaşdırmaq üçün geniş əhatəli bir vasitə rolunu oynayır.
@@ -38,6 +31,7 @@ Tələb olunan məhsullara diqqət yetirməklə təchizat zəncirini sadələşd
 ## Bu Dashboardun Dəyəri:
 
 Bu dashboard moda sənayesində fəaliyyət göstərən bizneslər üçün olduqca vacib bir vasitədir. O, şirkətlərə müştəri məmnuniyyətini artırmaq, gəlirliliyi yüksəltmək və sürətlə dəyişən bazarda rəqabətədavamlı qalmaq üçün məlumat əsaslı qərarlar qəbul etməyə imkan verir.
+
 
 
 
